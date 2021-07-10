@@ -1,0 +1,54 @@
+header{
+	background-color: black;
+	color: white;
+	height: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	text-align: left;
+}
+
+a:hover {
+	color: #990033;
+}
+
+.nut {
+	height: auto;
+	width: 70%; 
+	opacity: 1;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul,li {
+	list-style-type: none;
+	text-align: left;
+}
+
+body {
+	background-color: gray;
+}
+
+.yes {
+	height: auto;
+	width: 4%;
+	padding-left: 100px;
+	display: block;
+	padding-left: 577px;
+}
+
+.video {
+	padding-top: 50px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.bread {
+	background-color: orange;
+	font-size: 26px;
+}
